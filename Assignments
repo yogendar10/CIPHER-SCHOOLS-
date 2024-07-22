@@ -1,7 +1,0 @@
-Lecture2- Writing The First Program - Hello World
-#include<iostream>           //This is a header
-using namespace std;        
-int main(){                 //main is a function
-cout<<"HELLO WORLD!"; 
-return 0;
-} 
